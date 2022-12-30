@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **bhubaneswar905@gmail.com**
 
-- ⚡ HOBBY * If I was a Genius,  I would invent a Time Machine *
+- ⚡ Fun Fact :  * If I was a Genius,  I would invent a Time Machine *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
