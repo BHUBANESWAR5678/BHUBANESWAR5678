@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhubaneswar5678&label=Profile%20views&color=0e75b6&style=flat" alt="bhubaneswar5678" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhubaneswarsin9" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bhubaneswarsin9?logo=twitter&style=for-the-badge" alt="https://twitter.com/bhubaneswarsin9" /></a> </p>
+<p align="left"> <a href="bhubaneswarsin9" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bhubaneswarsin9?logo=twitter&style=for-the-badge" alt="https://twitter.com/bhubaneswarsin9" /></a> </p>
 
 - 🔭 I’m interested in learning about **app development and web devlopment**
 
